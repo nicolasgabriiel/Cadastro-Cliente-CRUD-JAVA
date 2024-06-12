@@ -1,14 +1,13 @@
-package br.com.rpires;
+package br.com.ngabriel;
 
-import br.com.rpires.dao.ClienteMapDAO;
-import br.com.rpires.dao.ClienteSetDAO;
-import br.com.rpires.dao.IClienteDAO;
-import br.com.rpires.domain.Cliente;
+import br.com.ngabriel.dao.ClienteSetDAO;
+import br.com.ngabriel.dao.IClienteDAO;
+import br.com.ngabriel.domain.Cliente;
 
 import javax.swing.*;
 
 /**
- * @author rodrigo.pires
+ * @author nicolas.gabriel
  */
 public class App {
 

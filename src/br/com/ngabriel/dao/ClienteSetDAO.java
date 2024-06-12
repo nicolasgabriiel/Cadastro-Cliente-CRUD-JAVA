@@ -3,18 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.rpires.dao;
+package br.com.ngabriel.dao;
 
 import java.util.Collection;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
-import br.com.rpires.domain.Cliente;
+import br.com.ngabriel.domain.Cliente;
 
 /**
  *
- * @author rodrigo.pires
+ * @author nicolas.gabriel
  */
 public class ClienteSetDAO implements IClienteDAO {
     

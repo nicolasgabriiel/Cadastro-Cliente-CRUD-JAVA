@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.com.rpires.domain;
+package br.com.ngabriel.domain;
 
 import java.util.Objects;
 
 /**
  *
- * @author rodrigo.pires
+ * @author nicolas.gabriel
  */
 public class Cliente {
     
